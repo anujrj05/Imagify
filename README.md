@@ -37,9 +37,6 @@ Imagify/
 3. Server processes the image
 4. Processed output is returned to the client
 
-## 🌐 Live Server
-👉 https://imagify-server-chi.vercel.app
-
 ## 📌 Future Enhancements
 - Add multiple image filters
 - Authentication system
